@@ -1,0 +1,76 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2024.1/examples
+T_opt
+!s110 1773245827
+VVB5[eR4gFIjBVJgc?gJD52
+04 16 4 work binary_to_bcd_tb fast 0
+=1-50a13275f83d-69b19582-14e-3010
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vbinary_to_bcd
+2C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/src/binary_to_bcd.sv
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1773245813
+!i10b 1
+!s100 23WCoWSl92VPVFX_4XO7E0
+Id:goRn_8`YLh^KGH48Tz72
+S1
+Z4 dC:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/questa
+w1772730301
+8C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/src/binary_to_bcd.sv
+FC:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/src/binary_to_bcd.sv
+!i122 1
+L0 1 44
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z7 !s108 1773245813.000000
+!s107 C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/src/binary_to_bcd.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/src/binary_to_bcd.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vbinary_to_bcd_tb
+2C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/sim/binary_to_bcd_tb.sv
+R2
+R3
+!i10b 1
+!s100 _?IKL<^egdD2I15C:mz7S3
+IzPE8bA[jX7jl>c9m<S88P0
+S1
+R4
+w1772729003
+8C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/sim/binary_to_bcd_tb.sv
+FC:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/sim/binary_to_bcd_tb.sv
+!i122 0
+L0 1 24
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/sim/binary_to_bcd_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/sim/binary_to_bcd_tb.sv|
+!i113 0
+R8
+R1

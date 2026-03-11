@@ -1,0 +1,15 @@
+C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/src/binary_to_bcd.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/src/binary_to_bcd.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module binary_to_bcd
+
+Top level modules:
+	binary_to_bcd
+
+} {} {}} C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/sim/binary_to_bcd_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ishaa/Desktop/DigitalLogicSystems/124_IshaUmar_lab4/sim/binary_to_bcd_tb.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module binary_to_bcd_tb
+
+Top level modules:
+	binary_to_bcd_tb
+
+} {} {}}
