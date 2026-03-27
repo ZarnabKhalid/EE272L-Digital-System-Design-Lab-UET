@@ -1,0 +1,58 @@
+{C:/Semester3/DLD LAB/Lab5/SRC/top.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Semester3/DLD LAB/Lab5/SRC/top.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}} {C:/Semester3/DLD LAB/Lab5/SRC/ripple_carry_adder.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Semester3/DLD LAB/Lab5/SRC/ripple_carry_adder.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder
+-- Compiling module ripple_adder
+
+Top level modules:
+	ripple_adder
+
+} {} {}} {C:/Semester3/DLD LAB/Lab5/SRC/const_multiplier_3.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Semester3/DLD LAB/Lab5/SRC/const_multiplier_3.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {C:/Semester3/DLD LAB/Lab5/SRC/seven_seg_decoder.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Semester3/DLD LAB/Lab5/SRC/seven_seg_decoder.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module seven_seg_decoder
+
+Top level modules:
+	seven_seg_decoder
+
+} {} {}} {C:/Semester3/DLD LAB/Lab5/SRC/mux2to1.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Semester3/DLD LAB/Lab5/SRC/mux2to1.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {C:/Semester3/DLD LAB/Lab5/SRC/decoder_sel.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Semester3/DLD LAB/Lab5/SRC/decoder_sel.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module decoder_sel
+
+Top level modules:
+	decoder_sel
+
+} {} {}} {C:/Semester3/DLD LAB/Lab5/SIM/tb_const_multiplier_3.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Semester3/DLD LAB/Lab5/SIM/tb_const_multiplier_3.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb_multiplier
+
+Top level modules:
+	tb_multiplier
+
+} {} {}} {C:/Semester3/DLD LAB/Lab5/SRC/log_shifter.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Semester3/DLD LAB/Lab5/SRC/log_shifter.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module log_shifter
+
+Top level modules:
+	log_shifter
+
+} {} {}}
