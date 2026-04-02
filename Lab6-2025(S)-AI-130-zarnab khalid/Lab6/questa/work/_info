@@ -1,0 +1,292 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2024.1/examples
+T_opt
+!s110 1774805977
+VNz`6b5n<X4WT:k]g1AM3P0
+Z2 04 10 4 work counter_tb fast 0
+=1-200b7431fe80-69c963d9-137-15f8
+R0
+Z3 !s12f OEM100
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z6 tCvgOpt 0
+n@_opt
+Z7 OL;O;2024.1;79
+R1
+T_opt1
+!s110 1774806004
+V:^dJ?AXheC]ioBV47mM^d1
+R2
+=1-200b7431fe80-69c963f4-a6-5874
+R0
+R3
+R4
+R5
+o-quiet -auto_acc_if_foreign -work work +acc
+R6
+n@_opt1
+R7
+vadder
+2C:/Users/hp/OneDrive/Desktop/lab 06/adder.sv
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1774805951
+!i10b 1
+!s100 PLo3[ZhK^Z@hoImM;ND8?3
+I?4ao][ke728[LA;3fXhUZ3
+S1
+Z10 dC:/Users/hp/OneDrive/Desktop/lab 06
+w1774805935
+8C:/Users/hp/OneDrive/Desktop/lab 06/adder.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/adder.sv
+!i122 9
+Z11 L0 1 8
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+Z13 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z14 !s108 1774805951.000000
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/adder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/adder.sv|
+!i113 0
+Z15 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+vcomparator
+2C:/Users/hp/OneDrive/Desktop/lab 06/comparator.sv
+R8
+R9
+!i10b 1
+!s100 V8Uclc[NC?G;g]P^h1`M42
+I?Zk2l8mBgmDg3RZ;]n2A>1
+S1
+R10
+w1774805543
+8C:/Users/hp/OneDrive/Desktop/lab 06/comparator.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/comparator.sv
+!i122 10
+R11
+R12
+R13
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/comparator.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/comparator.sv|
+!i113 0
+R15
+R6
+vconfigurable_counter
+2C:/Users/hp/OneDrive/Desktop/lab 06/configurable_counter.sv
+R8
+R9
+!i10b 1
+!s100 DLABmX?]fU8b4T>hi5T;41
+I;=[6SZS]YR<B6fc1P86DU1
+S1
+R10
+w1774802556
+8C:/Users/hp/OneDrive/Desktop/lab 06/configurable_counter.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/configurable_counter.sv
+!i122 11
+L0 1 32
+R12
+R13
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/configurable_counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/configurable_counter.sv|
+!i113 0
+R15
+R6
+vcounter
+2C:/Users/hp/OneDrive/Desktop/lab 06/counter.sv
+R8
+R9
+!i10b 1
+!s100 Z_9BQ1azXG68Wg:`2ZAT<0
+IkKg4;O4RHFAG86g:?_6M73
+S1
+R10
+w1774805650
+8C:/Users/hp/OneDrive/Desktop/lab 06/counter.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/counter.sv
+!i122 12
+L0 1 40
+R12
+R13
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/counter.sv|
+!i113 0
+R15
+R6
+vcounter_tb
+2C:/Users/hp/OneDrive/Desktop/lab 06/counter_tb.sv
+R8
+R9
+!i10b 1
+!s100 ;QanTNlP>BK7KIaKC:L4P2
+IPn:>o6HV2KoeYNR;mj=iI0
+S1
+R10
+w1774805712
+8C:/Users/hp/OneDrive/Desktop/lab 06/counter_tb.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/counter_tb.sv
+!i122 13
+L0 1 42
+R12
+R13
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/counter_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/counter_tb.sv|
+!i113 0
+R15
+R6
+vdecoder
+2C:/Users/hp/OneDrive/Desktop/lab 06/decoder.sv
+R8
+Z16 !s110 1774805952
+!i10b 1
+!s100 z>zJoA19JjPY81@78?8Mg1
+ITV5XgMRY<U`9AhD]Fbf^G1
+S1
+R10
+w1774803159
+8C:/Users/hp/OneDrive/Desktop/lab 06/decoder.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/decoder.sv
+!i122 14
+L0 1 22
+R12
+R13
+r1
+!s85 0
+31
+Z17 !s108 1774805952.000000
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/decoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/decoder.sv|
+!i113 0
+R15
+R6
+vfreq_divider
+2C:/Users/hp/OneDrive/Desktop/lab 06/freq_divider.sv
+R8
+R16
+!i10b 1
+!s100 F8KC^_X?ekCoD_[WEQl290
+Ieg361XdR;3KOoe`GK?iXc3
+S1
+R10
+w1774802693
+8C:/Users/hp/OneDrive/Desktop/lab 06/freq_divider.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/freq_divider.sv
+!i122 15
+L0 1 135
+R12
+R13
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/freq_divider.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/freq_divider.sv|
+!i113 0
+R15
+R6
+vmux
+2C:/Users/hp/OneDrive/Desktop/lab 06/mux.sv
+R8
+R16
+!i10b 1
+!s100 haVHZn2NFLDm0;[ISSzQi2
+I@z5Xn2=FV`D`i3Mb5F_;N0
+S1
+R10
+w1774805562
+8C:/Users/hp/OneDrive/Desktop/lab 06/mux.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/mux.sv
+!i122 16
+L0 1 18
+R12
+R13
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/mux.sv|
+!i113 0
+R15
+R6
+vt_ff
+2C:/Users/hp/OneDrive/Desktop/lab 06/t_ff.sv
+R8
+R16
+!i10b 1
+!s100 4MP?W2FK_L>5YLGJ=DRP:1
+Ibb<GYR=21TKBbYlKccezW1
+S1
+R10
+w1774802691
+8C:/Users/hp/OneDrive/Desktop/lab 06/t_ff.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/t_ff.sv
+!i122 17
+L0 1 12
+R12
+R13
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/t_ff.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/t_ff.sv|
+!i113 0
+R15
+R6
+vtop
+2C:/Users/hp/OneDrive/Desktop/lab 06/top.sv
+R8
+R16
+!i10b 1
+!s100 coUcAEMXndg8IB^lZHcXT3
+IfV6HPGBbhFlYQW:6mHV@B1
+S1
+R10
+w1774805675
+8C:/Users/hp/OneDrive/Desktop/lab 06/top.sv
+FC:/Users/hp/OneDrive/Desktop/lab 06/top.sv
+!i122 18
+L0 1 19
+R12
+R13
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/hp/OneDrive/Desktop/lab 06/top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/lab 06/top.sv|
+!i113 0
+R15
+R6

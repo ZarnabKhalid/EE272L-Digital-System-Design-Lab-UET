@@ -1,0 +1,57 @@
+{C:/Users/hp/OneDrive/Desktop/lab 06/mux.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/lab 06/mux.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/lab 06/decoder.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/lab 06/decoder.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/lab 06/top.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/lab 06/top.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/lab 06/t_ff.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/lab 06/t_ff.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module t_ff
+
+Top level modules:
+	t_ff
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/lab 06/freq_divider.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/lab 06/freq_divider.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module freq_divider
+
+Top level modules:
+	freq_divider
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/lab 06/counter.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/lab 06/counter.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/lab 06/configurable_counter.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/lab 06/configurable_counter.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module configurable_counter
+
+Top level modules:
+	configurable_counter
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/lab 06/adder.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/lab 06/adder.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}}
